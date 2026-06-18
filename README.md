@@ -1,14 +1,18 @@
 # Serein Blog
 
-This repository contains my personal blog site, customized from an existing Astro blog template.
+这是我的个人博客站点，由现有 Astro 博客模板二次修改而来。
 
-## Notes
+## 说明
 
-- This site is used for personal learning notes, life records, and blog posts.
-- The original template introduction, contributor list, star history, and project promotion content have been removed to avoid misattribution.
-- Third-party license files are kept where required by the original open-source licenses.
+- 本站用于记录个人学习笔记、生活内容和博客文章。
+- 原模板的宣传内容和协作说明已删除，避免误认为这些内容属于本人。
+- 根据开源许可证要求，必要的第三方许可证文件会继续保留。
 
-## Development
+## 预览
+
+![Serein Blog 预览](public/assets/home/blog-preview.png)
+
+## 本地运行
 
 ```bash
 pnpm install

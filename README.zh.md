@@ -5,10 +5,22 @@
 ## 说明
 
 - 本站用于记录个人学习笔记、生活内容和博客文章。
-- 原模板的项目介绍、贡献说明、贡献者列表、Star 历史和宣传内容已删除，避免误认为这些内容属于本人。
+- 原模板的宣传内容和协作说明已删除，避免误认为这些内容属于本人。
 - 根据开源许可证要求，必要的第三方许可证文件会继续保留。
 
-## 本地运行
+## 预览
+
+![Serein Blog 预览](public/assets/home/blog-preview.png)
+
+## 预覽
+
+![Serein Blog 預覽](public/assets/home/blog-preview.png)
+
+## 预覽
+
+![Serein Blog 預覽](public/assets/home/blog-preview.png)
+
+## 本地執行
 
 ```bash
 pnpm install
