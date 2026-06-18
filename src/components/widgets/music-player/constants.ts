@@ -37,6 +37,14 @@ export const LOCAL_PLAYLIST: Song[] = [
 		url: "assets/music/url/cl.mp3",
 		duration: 200,
 	},
+	{
+		id: 5,
+		title: "童话镇",
+		artist: "陈一发儿",
+		cover: "/logo.png",
+		url: "assets/music/url/chenyifaer-tonghuazhen.mp3",
+		duration: 0,
+	},
 ];
 
 export const DEFAULT_SONG: Song = {

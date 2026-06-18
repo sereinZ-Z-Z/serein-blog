@@ -141,68 +141,46 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
+					url: "https://github.com/sereinZ-Z-Z",
 					external: true, // 外部链接，新标签页打开
 					icon: "fa7-brands:github",
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/454823715?spm_id_from=333.1007.0.0",
 					external: true,
 					icon: "fa7-brands:bilibili",
-				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
 				},
 			],
 		},
 
 		// 自定义一级下拉菜单示例：个人内容页面
 		{
-			name: "My",
+			name: "我的",
 			url: "/content/",
 			icon: "material-symbols:person",
 			children: [
 				{
-					name: "Anime",
-					url: "/anime/",
-					icon: "material-symbols:movie",
-				},
-				{
-					name: "Diary",
-					url: "/diary/",
-					icon: "material-symbols:book",
-				},
-				{
-					name: "Gallery",
+					name: "相册",
 					url: "/albums/",
 					icon: "material-symbols:photo-library",
-				},
-				{
-					name: "Devices",
-					url: "/devices/",
-					icon: "material-symbols:devices",
-					external: false, // 内部链接，当前页导航
 				},
 			],
 		},
 
 		// 自定义一级下拉菜单示例：关于相关
 		{
-			name: "About",
-			url: "/content/",
+name: "关于",
+				url: "/content/",
 			icon: "material-symbols:info",
 			children: [
 				{
-					name: "About",
-					url: "/about/",
+name: "关于",
+				url: "/about/",
 					icon: "material-symbols:person",
 				},
 				{
-					name: "Friends",
+					name: "友链",
 					url: "/friends/",
 					icon: "material-symbols:group",
 				},
@@ -211,22 +189,17 @@ export const navBarConfig: NavBarConfig = {
 
 		// 自定义一级下拉菜单示例：其他页面
 		{
-			name: "Others",
+			name: "其他",
 			url: "#", // "#" 作为占位 URL，点击不会跳转
 			icon: "material-symbols:more-horiz",
 			children: [
-				{
-					name: "Projects",
-					url: "/projects/",
-					icon: "material-symbols:work",
-				},
 				{
 					name: "Skills",
 					url: "/skills/",
 					icon: "material-symbols:psychology",
 				},
 				{
-					name: "Timeline",
+					name: "成长历程",
 					url: "/timeline/",
 					icon: "material-symbols:timeline",
 				},

@@ -1,49 +1,58 @@
+---
+title: 关于我
+---
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+## 👋 你好，我是 Serein
 
-::github{repo="LyraVoid/Mizuki"}
+**学生 / 开发者 / 终身学习者**
 
-## 🌟 Theme Features
+你好！我是一名热爱技术与设计的学生。我目前在池州学院学习数据科学与机器学习相关课程。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
-
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+我喜欢探索新技术，记录学习过程，分享生活中的点滴。我相信持续学习和知识分享是成长的最佳途径。
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+## 🎯 技能与兴趣
+
+### 💻 编程开发
+Python, JavaScript, HTML/CSS, C/C++
+- `Web开发` `数据分析`
+
+### 🤖 机器学习
+Scikit-learn, TensorFlow, 数据处理
+- `深度学习` `数据挖掘`
+
+### 🎨 设计创意
+UI设计, 平面设计, 视频剪辑
+- `Figma` `创意表达`
+
+### 📚 持续学习
+技术博客, 在线课程, 开源贡献
+- `终身学习` `知识分享`
+
+---
+
+## 📅 我的经历
+
+- **2024.09 - 现在** · 大学学习 — 进入池州学院后开始正式接触代码，学习计算机科学与技术相关课程
+- **2025** · 编程入门与实践 — 学习 Python、HTML/CSS、JavaScript 等基础内容，尝试完成课程练习和小项目
+- **2026** · 持续提升 — 继续学习数据分析、机器学习和 Web 开发，把学习过程记录到个人博客中
+
+---
+
+## 📊 我的统计
+
+- `1+` 年编程学习经历
+- `6+` 篇学习与生活文章
+- `∞` 学习热情
+
+---
+
+## 🔗 联系方式
+
+- 📧 **邮箱**: serein@czu.edu.cn
+- 💬 **QQ**: 3373590584
+- 🐙 **GitHub**: [sereinZ-Z-Z](https://github.com/sereinZ-Z-Z)
+- 📍 **位置**: 中国 · 安徽
+
+> 记录生活，分享知识，探索未来。
