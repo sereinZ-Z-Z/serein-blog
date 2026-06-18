@@ -10,17 +10,9 @@
 
 ## 预览
 
-![Serein Blog 预览](public/assets/home/blog-preview.png)
+![Serein Blog 预览](yulan1.png)
 
-## 预覽
-
-![Serein Blog 預覽](public/assets/home/blog-preview.png)
-
-## 预覽
-
-![Serein Blog 預覽](public/assets/home/blog-preview.png)
-
-## 本地執行
+## 本地运行
 
 ```bash
 pnpm install

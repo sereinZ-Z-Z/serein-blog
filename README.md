@@ -10,7 +10,7 @@
 
 ## 预览
 
-![Serein Blog 预览](yulan.png)
+![Serein Blog 预览](yulan1.png)
 
 ## 本地运行
 

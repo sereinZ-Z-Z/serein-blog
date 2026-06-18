@@ -8,9 +8,9 @@
 - 原模板的宣傳內容和協作說明已刪除，避免誤認為這些內容屬於本人。
 - 根據開源授權要求，必要的第三方授權檔案會繼續保留。
 
-## 预覽
+## 預覽
 
-![Serein Blog 預覽](public/assets/home/blog-preview.png)
+![Serein Blog 預覽](yulan1.png)
 
 ## 本地執行
 
