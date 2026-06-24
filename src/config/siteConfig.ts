@@ -188,7 +188,7 @@ export const siteConfig: SiteConfig = {
 	showCoverInContent: true, // 在文章内容页显示文章封面
 	generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	favicon: [
-		{ src: '/favicon/serein-logo.png', sizes: '32x32' },
+		{ src: '/favicon/serein-logo2.png', sizes: '32x32' },
 	],
 
 	// 字体配置
