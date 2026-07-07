@@ -1,6 +1,6 @@
 ---
 title: 用原生 Servlet 搭建一个饿了么点餐系统
-published: 2026-07-02
+published: 2026-07-07
 description: 记录一次用原生 Servlet、JSP 和 JDBC 从零搭建饿了么点餐系统的课程设计经历，涵盖自研 MVC 框架、登录过滤器、购物车、下单事务与 Docker 部署全过程。
 tags:
   - Java
@@ -16,14 +16,14 @@ comment: true
 
 ### 一、项目概览
 
-| 项 | 说明 |
-|----|------|
-| 语言 | Java 8 |
-| Web 容器 | Tomcat 8.5 |
-| 数据库 | MySQL 8.x，库名 `elm` |
-| 构建工具 | Maven（war 包） |
-| 前端 | JSP + 原生 CSS/JS |
-| 部署 | Docker Compose 一键启动 |
+| 项       | 说明                    |
+| -------- | ----------------------- |
+| 语言     | Java 8                  |
+| Web 容器 | Tomcat 8.5              |
+| 数据库   | MySQL 8.x，库名 `elm`   |
+| 构建工具 | Maven（war 包）         |
+| 前端     | JSP + 原生 CSS/JS       |
+| 部署     | Docker Compose 一键启动 |
 
 系统包含 7 张表：商家、食品、用户、购物车、送货地址、订单、订单明细。测试数据里塞了十多个商家（万家饺子、麦当劳、肯德基等），每个商家底下有多条食品。
 
