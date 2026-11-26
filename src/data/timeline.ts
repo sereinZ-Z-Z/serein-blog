@@ -3,13 +3,13 @@ import type { TimelineItem } from "../components/features/timeline/types";
 export const timelineData: TimelineItem[] = [
 	{
 		id: "entered-chizhou-university",
-		title: "进入池州学院，第一次正式接触代码",
+		title: "进入大学，第一次正式接触代码",
 		description:
-			"2024 年 9 月入学池州学院，进入大数据与人工智能学院 24 计算机科学与技术 1 班，从大学课程开始真正接触编程。",
+			"2024 年 9 月入学，进入大数据与人工智能学院，从大学课程开始真正接触编程。",
 		type: "education",
 		startDate: "2024-09-01",
-		location: "安徽池州",
-		organization: "池州学院 大数据与人工智能学院",
+		location: "安徽",
+		organization: "大数据与人工智能学院",
 		skills: ["计算机基础", "程序设计入门", "C 语言基础", "学习规划"],
 		achievements: [
 			"开始学习计算机专业基础课程",
@@ -27,7 +27,7 @@ export const timelineData: TimelineItem[] = [
 			"入学后从基础语法开始练习，逐步理解变量、条件、循环、函数等编程概念。",
 		type: "achievement",
 		startDate: "2024-10-01",
-		location: "池州学院",
+		location: "校园",
 		skills: ["C 语言", "Python", "基础算法", "问题拆解"],
 		achievements: [
 			"完成课程中的基础编程练习",
